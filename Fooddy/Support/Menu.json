@@ -1,0 +1,151 @@
+{
+    "category": [
+        {
+            "categoryName": "Burgers",
+            "categoryImage": "imageBurgers.png",
+            "id": 99990001,
+            "subCategory": [
+                {
+                    "id": 9999000101,
+                    "title": "Burgers Story",
+                    "readyTime": "25-30 min",
+                    "rating": 4.7,
+                    "description": "Burgers - Snacks",
+                    "priceRange": "10-20",
+                    "image": "imageBurgersStory.png",
+                    "items": [
+                        {
+                            "name": "Tomato Pasta",
+                            "price": "12.35",
+                            "description": "Italian pasta with tomatoos, provoncal hurbs and basil",
+                            "cal": "38033 Cal",
+                            "image": "imageTomatoPasta.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 9999000102,
+                    "title": "Burgers Wraps",
+                    "readyTime": "25-30 min",
+                    "rating": 4.7,
+                    "description": "Burgers - Chicken Wrap (Y)",
+                    "priceRange": "15-25",
+                    "image": "imageBurgersWraps.png",
+                    "items": [
+                        {
+                            "name": "Chicken Wrap (Y)",
+                            "price": "20.00",
+                            "description": "A Lightly Toasted Wrap, Generously Filled With Tender Chicken, Chili Jam, Green Leaf Lettuce and Tangy Yoghurt Sauce",
+                            "cal": "100 Cal",
+                            "image": "imageChickenWrap.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoryName": "Pizza",
+            "categoryImage": "imagePiza.png",
+            "id": 99990002,
+            "subCategory": [
+                {
+                    "id": 9999000201,
+                    "title": "Neapolitan Pizza",
+                    "readyTime": "25-30 min",
+                    "rating": 4.7,
+                    "description": "Neapolitan - Pizza",
+                    "priceRange": "15-50",
+                    "image": "imageNeapolitanPizza.png",
+                    "items": [
+                        {
+                            "name": "Pizza Marinara",
+                            "price": "20.00",
+                            "description": "The typical Neapolitan pizza toppings are fresh mozzarella, tomatoes, basil leaves, oregano, and olive oil.",
+                            "cal": "50 Cal",
+                            "image": "imagePizzaMarinara.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 9999000202,
+                    "title": "California Pizza",
+                    "readyTime": "27-35 min",
+                    "rating": 4.7,
+                    "description": "California - Pizza",
+                    "priceRange": "15-50",
+                    "image": "imageCaliforniaPizza.png",
+                    "items": [
+                        {
+                            "name": "Chicken and Artichokes",
+                            "price": "20.00",
+                            "description": "When it comes to California pizza, there's no such thing as traditional toppings",
+                            "cal": "50 Cal",
+                            "image": "imageChickenArtichokes.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoryName": "Snacks",
+            "categoryImage": "imageSnacks.png",
+            "id": 99990003,
+            "subCategory": [
+                {
+                    "id": 9999000301,
+                    "title": "Dips & Spreads",
+                    "readyTime": "10-20 min",
+                    "rating": 4.7,
+                    "description": "Dips - Spreads",
+                    "priceRange": "15-50",
+                    "image": "imageDips&Spreads.png",
+                    "items": [
+                        {
+                            "name": "Bread Toast",
+                            "price": "20.00",
+                            "description": "Cheese dip, spinach dip, and artichoke dip. Salsa, guacamole, and hummus. Find the right dip for your party, whether you want easy, colorful, or healthy options.",
+                            "cal": "50 Cal",
+                            "image": "imageBreadToast.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoryName": "Sushi",
+            "categoryImage": "imageSushi.png",
+            "id": 99990004,
+            "subCategory": [
+                {
+                    "id": 9999000401,
+                    "title": "Sasazushi",
+                    "readyTime": "15-20 min",
+                    "rating": 4.7,
+                    "description": "Sasazushi - Sushi",
+                    "priceRange": "15-50",
+                    "image": "imageSasazushi.png",
+                    "items": []
+                }
+            ]
+        },
+        {
+            "categoryName": "Ice Cream",
+            "categoryImage": "imageicecream.png",
+            "id": 99990005,
+            "subCategory": []
+        },
+        {
+            "categoryName": "Drinks",
+            "categoryImage": "imageDrinks.png",
+            "id": 99990006,
+            "subCategory": []
+        },
+        {
+            "categoryName": "Bread Chees",
+            "categoryImage": "imageBreadChees.png",
+            "id": 99990007,
+            "subCategory": []
+        }
+    ],
+    "currency": "$"
+}
